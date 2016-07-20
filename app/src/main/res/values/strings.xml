@@ -4,5 +4,8 @@
     <string name="app_name">DemoApplication</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="material_theme">Theme.Material</string>
+    <string name="material_light_theme">Theme.Material.Light</string>
+    <string name="material_dark_theme">Theme.Material.Light.DarkActionBar</string>
 
 </resources>
